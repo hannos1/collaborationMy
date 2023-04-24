@@ -1,4 +1,3 @@
-let a = 2;
+let a = 10;
 
 // hannos1
-a = 3
